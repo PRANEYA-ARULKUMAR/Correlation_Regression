@@ -58,8 +58,10 @@ plt.plot(x,y1,'r')
 plt.xlabel('x-data')
 plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
+plt.show()
 ```
 # Output 
+![Screenshot 2024-12-18 214924](https://github.com/user-attachments/assets/337e7e01-a3cb-4f26-be73-9ecd36ba9caa)
 
 
 # Result
